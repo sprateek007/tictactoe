@@ -1,0 +1,7 @@
+<resources>
+    <declare-styleable name="TtView">
+        <attr name="matrixSize" format="integer" />
+        <attr name="boxSize" format="dimension" />
+        <attr name="seperatorWidth" format="dimension" />
+    </declare-styleable>
+</resources>
